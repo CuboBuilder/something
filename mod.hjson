@@ -6,4 +6,5 @@ version: "1.0"
 hidden: true
 main: "main.js"
 minGameVersion: "136"
+repo: "CuboBuilder/something"
 dependencies: []
